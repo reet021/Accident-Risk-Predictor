@@ -21,7 +21,7 @@ An AI-powered web application that predicts traffic accident risk levels using M
 ### Backend
 
 * Flask
-* Flask-CORS
+
 
 ### Machine Learning
 
